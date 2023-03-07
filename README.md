@@ -15,4 +15,4 @@ Each assignment's folder contains the following elements:
 2. traces or logs needed to solve the problem
 3. deliverables folder, contaning the script used to solve the assignment and/or the JSIM file of the system analysed
 
-The [project folder](/Project/) instead contains the project presentation, the system's traces and a deliverables folder, containing the script and JSIM files used to solve the problem and a final report describing how the project has been faced and which techniques have been used.
+The project folder instead contains the project [presentation](/Project/Projects%202022-2023.pdf), the system's [traces](/Project/Traces/) and a [deliverables](/Project/Project%20deliverables/) folder, containing the script and JSIM files used to solve the problem and a final [report](/Project/Project%20deliverables/Performance_evaluation_and_application_project_report.pdf) describing how the project has been faced and which techniques have been used.
